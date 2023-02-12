@@ -1,0 +1,7 @@
+#index:
+#    path: /
+#    controller: App\Controller\DefaultController::index
+
+Administration:
+    path: /
+    controller: App\Controller\UsersController::index
